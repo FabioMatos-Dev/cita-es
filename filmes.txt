@@ -1,3 +1,6 @@
 "Não há certezas, apenas oportunidades." (V de vingança)
 "Diga 'olá' para meu pequeno amigo!'"(Scarface)
 "Hasta la vista, baby." (Exterminador do Futuro 2)
+
+Exercícios do livro "Controlando versões com Git e GitHub", 
+Alexandre Aquile e Rodrigo Ferreira. Editora Casa do Código
